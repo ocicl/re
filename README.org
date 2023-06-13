@@ -1,0 +1,10 @@
+* re
+
+Lua-style Pattern Matching for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/massung/re.git   |
+| commit  | 2e27ba8  |
+| systems | re |
+|---------+-------------------------------------------|
+
